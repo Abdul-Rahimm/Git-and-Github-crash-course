@@ -7,3 +7,6 @@ Learning how to efficiently utilize git and github as tools for collaborative co
 2. progressive focus overload
 3. deep focus
 4. refocus meditation
+
+## this change only exists on feature1 branch
+## now i am going to merge the two branches okay
