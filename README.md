@@ -9,6 +9,3 @@ Learning how to efficiently utilize git and github as tools for collaborative co
 4. refocus meditation
 
 
-
-. this change is being made on the feature branch
-. practicing branching
