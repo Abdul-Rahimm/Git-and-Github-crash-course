@@ -3,9 +3,8 @@ Learning how to efficiently utilize git and github as tools for collaborative co
 
 change1
 
-## subheader
+## watching tuto on youtube
 
-watching tuto on youtube
 1. predetermined goal
 2. progressive focus overload
 3. deep focus
